@@ -1,0 +1,71 @@
+{
+    "index": {
+        "title": "Welcome to Our Homepage"
+    },
+    "alerts": {
+        "title": "Alerts"
+    },
+    "badges": {
+        "title": "Badges"
+    },
+    "breadcrumbs": {
+        "title": "Breadcrumbs"
+    },
+    "button-groups": {
+        "title": "Button Groups"
+    },
+    "buttons": {
+        "title": "Buttons"
+    },
+    "cards": {
+        "title": "Cards"
+    },
+    "carousels": {
+        "title": "Carousels"
+    },
+    "collapse": {
+        "title": "Collapse"
+    },
+    "dropdowns": {
+        "title": "Dropdowns"
+    },
+    "forms": {
+        "title": "Forms"
+    },
+    "input-groups": {
+        "title": "Input Groups"
+    },
+    "jumbotrons": {
+        "title": "Jumbotrons"
+    },
+    "list-groups": {
+        "title": "List Groups"
+    },
+    "modals": {
+        "title": "Modals"
+    },
+    "navs": {
+        "title": "Navs"
+    },
+    "navbars": {
+        "title": "Navbars"
+    },
+    "paginations": {
+        "title": "Paginations"
+    },
+    "popovers": {
+        "title": "Popovers"
+    },
+    "progress-bars": {
+        "title": "Progress bars"
+    },
+    "scrollspy": {
+        "title": "Scrollspy"
+    },
+    "tooltips": {
+        "title": "Tooltips"
+    },
+    "utilities": {
+        "title": "Utilities"
+    }
+}

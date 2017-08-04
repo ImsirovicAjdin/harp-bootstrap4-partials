@@ -1,0 +1,21 @@
+<!--
+Popovers example #3: Dismiss on next click
+https://v4-alpha.getbootstrap.com/components/popovers/#dismiss-on-next-click
+-->
+
+<div class="container mt-5">
+
+
+<a tabindex="0" class="btn btn-lg btn-danger" role="button" data-toggle="popover" data-trigger="focus" title="Dismissible popover" data-content="And here's some amazing content. It's very engaging. Right?">Dismissible popover</a>
+
+
+</div>
+
+<script>
+    $(function () {
+        $('[data-toggle="popover"]').popover();
+    });
+    $('.popover-dismiss').popover({
+        trigger: 'focus';
+    });
+</script>
